@@ -1,4 +1,4 @@
-### Hi there, I'm Bruno 👋
+### Oi, eu sou o Bruno 👋
 
 - 🔭 Atualmente trabalho com .NET Framework e SQL Server.
 - 🌱 Estou estudando .NET Core, TDD, NoSQL e NodeJS.
