@@ -1,8 +1,8 @@
 ### Hi there, I'm Bruno 👋
 
-- 🔭 I’m currently working on .NET Framework and SQL Server.
-- 🌱 I’m currently learning .NET Core, Unit Test, NoSQL, and JavaScript.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-henrique-cavalcante/">LinkedIn</a>
+- 🔭 Atualmente trabalho com .NET Framework e SQL Server.
+- 🌱 Atualmente estou aprendendo .NET Core, Unit Test, NoSQL e JavaScript.
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/bruno-henrique-cavalcante/">LinkedIn</a>
 
  
 <div>
