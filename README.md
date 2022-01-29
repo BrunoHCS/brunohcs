@@ -1,4 +1,4 @@
-### Oi, eu sou o Bruno 👋
+### Bruno Henrique 👋
 
 - Atualmente trabalho com .NET Framework e SQL Server.
 
