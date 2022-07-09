@@ -1,6 +1,6 @@
 ### Bruno Henrique 👋
 
-- Atualmente trabalho com .NET Framework e SQL Server.
+- Atualmente trabalho com .NET Core e SQL Server.
  
 <div>
   <a href="https://github.com/brunohcs">
